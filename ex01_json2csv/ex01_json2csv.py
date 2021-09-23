@@ -12,13 +12,13 @@ csv_writer = csv.writer(toCsv)
 
 count = 0
  
-for std in menu:
+for m in menu:
     if count == 0:
 
-        header = std.keys()
+        header = m.keys()
         csv_writer.writerow(header)
         count += 1
         
-    csv_writer.writerow(std.values())
+    csv_writer.writerow(m.values())
  
 toCsv.close()
