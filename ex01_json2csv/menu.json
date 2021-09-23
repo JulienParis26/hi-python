@@ -1,0 +1,10 @@
+{
+    "menu":[
+        {
+            "Drink": "Wine",
+            "Entree": "Shrimp",
+            "Main dish": "Pizza",
+            "Dessert": "Cheesecake"
+        }
+    ]
+}
