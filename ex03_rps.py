@@ -1,4 +1,4 @@
-# Import the module
+# IMPORT THE MODULE
 import random
 
 name = input("To start, please enter your pseudo: ")
