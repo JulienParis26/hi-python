@@ -1,6 +1,5 @@
-# Import the module
+# IMPORT THE MODULE
 import json
-
 import random
 
 n = random.randint(1, 50)
