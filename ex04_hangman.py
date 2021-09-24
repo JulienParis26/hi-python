@@ -1,3 +1,4 @@
+# IMPORT THE MODULE
 import random
 
 hang = ["""
